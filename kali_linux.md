@@ -3,8 +3,8 @@
 **<u>Problem:</u>**
 
 I installed a fresh 2020.3 Kali 64 bit on to a VirtualBox Windows host. Initial desktop login worked fine. But after the initial apt update / apt upgrade and reboot, subsequent login sends me straight to a black screen.
-
-
+<br />
+<br />
 
 **<u>Solutions:</u>**
 
